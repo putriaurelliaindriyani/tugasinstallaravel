@@ -1,0 +1,4 @@
+jika conposer sudah di download,maka anda ke command lalu masukan code "composer create-project --prefer-dist laravel/laravel (nama project)".
+code tersebut untuk membuat sebuah project pada laravel.
+jika sudah selesai menginstal,ketik kembali nama project yang sudah dibuat dengan code "tugaslaravel(nama project)".
+lalu "php artisan serve" untuk mendapatkan link yang akan dibuka melauli browser,maka akan muncul tampilan laravel.
